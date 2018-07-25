@@ -1,0 +1,18 @@
+/* line 1, ../sass/base/_base.scss */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+/* line 9, ../sass/base/_base.scss */
+html {
+  font-size: 62.5%;
+}
+
+/* line 13, ../sass/base/_base.scss */
+body {
+  box-sizing: border-box;
+}

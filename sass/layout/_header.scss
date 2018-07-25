@@ -1,0 +1,50 @@
+.header{
+    background-color: $color-back-secondary;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &-user{
+        display: flex;
+        align-items: center;
+        img{
+            height: 3.8rem;
+            width: 3.8rem;
+        }
+        &-text{
+            margin-left: 1rem; 
+            &-upper{
+                color: $color-text-black;
+                font-weight: 500;
+                font-size: $default-font-size;
+            }
+        }
+    }
+
+    &-dashboard{
+        text-align: center;
+        color: $color-text-black;
+        font-weight: 500;
+        font-size: 1.8rem;
+    }
+    &-button{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        &-btn{
+                text-decoration: none;
+                background-color: #138be7;
+                color: $color-text-white;
+                padding: 0.7rem 3rem;
+                font-size: 1.4rem;
+                font-weight: 400;
+               
+        }
+        img{
+            margin-top: 5px;
+            margin-right: 2rem;
+            height: 3rem;
+            width: 3rem;
+        }
+    }
+}

@@ -1,0 +1,1446 @@
+@media all and (max-width: 1199px) {
+  /* line 2, ../sass/abstract/_breakpoints.scss */
+  .welcome,
+  .info,
+  .refferal,
+  .social {
+    margin: 2rem !important;
+  }
+}
+@media all and (max-width: 1280px) {
+  /* line 12, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 9rem !important;
+    width: 9rem !important;
+  }
+
+  /* line 19, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 3.2rem !important;
+  }
+  /* line 21, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 1.3rem !important;
+  }
+  /* line 26, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 7rem !important;
+    width: 7rem !important;
+  }
+  /* line 33, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    height: 3.2rem !important;
+    width: 5.2rem !important;
+  }
+  /* line 37, ../sass/abstract/_breakpoints.scss */
+  .info-left-plus {
+    height: 3.5rem !important;
+    width: 3.2rem !important;
+  }
+
+  /* line 43, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    font-size: 1.4rem !important;
+  }
+}
+@media all and (min-width: 1099px) and (max-width: 1199px) {
+  /* line 49, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 22% !important;
+  }
+}
+@media all and (min-width: 980px) and (max-width: 1098px) {
+  /* line 55, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 24% !important;
+  }
+}
+@media all and (min-width: 977px) and (max-width: 1098px) {
+  /* line 61, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 45% !important;
+  }
+}
+@media all and (min-width: 900px) and (max-width: 976px) {
+  /* line 67, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 50% !important;
+  }
+}
+@media all and (min-width: 900px) and (max-width: 979px) {
+  /* line 73, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 26% !important;
+  }
+}
+@media all and (max-width: 1010px) {
+  /* line 79, ../sass/abstract/_breakpoints.scss */
+  .info-refferals-text {
+    margin-left: 1rem !important;
+  }
+}
+@media all and (max-width: 980px) {
+  /* line 87, ../sass/abstract/_breakpoints.scss */
+  .header-user-text-upper {
+    font-size: 1.4rem !important;
+  }
+  /* line 90, ../sass/abstract/_breakpoints.scss */
+  .header-user-text-lower {
+    font-size: 1.2rem !important;
+  }
+  /* line 94, ../sass/abstract/_breakpoints.scss */
+  .header-dashboard {
+    font-size: 1.6rem !important;
+  }
+  /* line 98, ../sass/abstract/_breakpoints.scss */
+  .header-button img {
+    margin-top: 2px !important;
+    height: 2.5rem !important;
+    width: 2.5rem !important;
+  }
+  /* line 103, ../sass/abstract/_breakpoints.scss */
+  .header-button-btn {
+    font-size: 1.2rem !important;
+  }
+
+  /* line 109, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 7.5rem !important;
+    width: 7.5rem !important;
+  }
+  /* line 114, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper {
+    font-size: 1.4rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+  /* line 118, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-lower {
+    font-size: 1.2rem !important;
+  }
+
+  /* line 124, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 2.8rem !important;
+  }
+  /* line 126, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 1.2rem !important;
+  }
+  /* line 131, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 6rem !important;
+    width: 6rem !important;
+  }
+  /* line 138, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    height: 2.2rem !important;
+    width: 4.2rem !important;
+  }
+  /* line 142, ../sass/abstract/_breakpoints.scss */
+  .info-left-plus {
+    height: 2.5rem !important;
+    width: 2.2rem !important;
+  }
+
+  /* line 148, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-text-upper,
+  .social-sub-header-text-upper,
+  .social-howto-header-text-upper {
+    font-size: 1.4rem !important;
+  }
+
+  /* line 153, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-text-lower,
+  .social-sub-header-text-lower,
+  .social-howto-header-text-lower,
+  .social-tasks-sub {
+    font-size: 1.2rem !important;
+  }
+
+  /* line 159, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-img {
+    width: 2.6rem !important;
+  }
+}
+@media all and (max-width: 900px) {
+  /* line 166, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 74% !important;
+  }
+
+  /* line 169, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 24% !important;
+  }
+
+  /* line 172, ../sass/abstract/_breakpoints.scss */
+  .info-left-tokens {
+    margin-left: -7rem !important;
+  }
+
+  /* line 175, ../sass/abstract/_breakpoints.scss */
+  .info-tokens-img {
+    margin-right: 2rem !important;
+  }
+
+  /* line 178, ../sass/abstract/_breakpoints.scss */
+  .social {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  /* line 181, ../sass/abstract/_breakpoints.scss */
+  .social-howto {
+    margin-top: 2rem !important;
+  }
+  /* line 184, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-header {
+    margin-right: 1rem !important;
+  }
+  /* line 187, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 14% !important;
+    margin-right: 2rem !important;
+  }
+  /* line 191, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 30% !important;
+  }
+}
+@media all and (max-width: 825px) {
+  /* line 198, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 72% !important;
+    padding-right: 0rem !important;
+  }
+  /* line 201, ../sass/abstract/_breakpoints.scss */
+  .info-left img {
+    margin-left: -3rem !important;
+  }
+  /* line 204, ../sass/abstract/_breakpoints.scss */
+  .info-left-tokens {
+    margin-left: -5rem !important;
+  }
+  /* line 207, ../sass/abstract/_breakpoints.scss */
+  .info-left-own {
+    margin-left: -1rem !important;
+  }
+  /* line 210, ../sass/abstract/_breakpoints.scss */
+  .info-left-refferals {
+    margin-left: -1rem !important;
+  }
+
+  /* line 214, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 26% !important;
+  }
+
+  /* line 217, ../sass/abstract/_breakpoints.scss */
+  .info-tokens-img {
+    margin-right: 5rem !important;
+  }
+
+  /* line 220, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar {
+    padding: 1rem 3rem !important;
+  }
+}
+@media all and (max-width: 767px) {
+  /* line 226, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    padding: 2rem 1rem !important;
+  }
+
+  /* line 229, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 17% !important;
+  }
+
+  /* line 232, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    font-size: 1.2rem !important;
+  }
+}
+@media all and (max-width: 699px) {
+  /* line 238, ../sass/abstract/_breakpoints.scss */
+  .header {
+    padding: 1.5rem 2rem !important;
+  }
+  /* line 240, ../sass/abstract/_breakpoints.scss */
+  .header-user, .header-button-btn {
+    display: none !important;
+  }
+  /* line 244, ../sass/abstract/_breakpoints.scss */
+  .header-dashboard {
+    margin: 0 auto;
+  }
+  /* line 247, ../sass/abstract/_breakpoints.scss */
+  .header-button {
+    display: inline-block;
+    position: absolute;
+    right: 3%;
+  }
+  /* line 252, ../sass/abstract/_breakpoints.scss */
+  .header-button-settings {
+    margin-right: 0rem !important;
+  }
+
+  /* line 256, ../sass/abstract/_breakpoints.scss */
+  .welcome {
+    padding-right: 1rem !important;
+  }
+  /* line 258, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 6.5rem !important;
+    width: 6.5rem !important;
+  }
+
+  /* line 263, ../sass/abstract/_breakpoints.scss */
+  .welcome-text {
+    margin-left: 1rem !important;
+  }
+
+  /* line 266, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 2.5rem !important;
+  }
+
+  /* line 269, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 5rem !important;
+    width: 5rem !important;
+  }
+
+  /* line 274, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 1.1rem !important;
+  }
+
+  /* line 277, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    height: 1.8rem !important;
+    width: 3rem !important;
+  }
+
+  /* line 281, ../sass/abstract/_breakpoints.scss */
+  .info-left-plus {
+    height: 1.8rem !important;
+    width: 1.8rem !important;
+  }
+
+  /* line 285, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-img {
+    width: 1.7rem !important;
+  }
+
+  /* line 288, ../sass/abstract/_breakpoints.scss */
+  .social-howto-sub {
+    padding: 1rem 2rem !important;
+  }
+}
+@media all and (max-width: 667px) {
+  /* line 294, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 20% !important;
+  }
+
+  /* line 297, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 33% !important;
+  }
+}
+@media all and (max-width: 660px) {
+  /* line 303, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper {
+    margin-bottom: 1rem !important;
+  }
+}
+@media all and (max-width: 625px) {
+  /* line 309, ../sass/abstract/_breakpoints.scss */
+  .info-left-tokens {
+    margin-right: -1rem !important;
+  }
+
+  /* line 312, ../sass/abstract/_breakpoints.scss */
+  .info-card {
+    padding: 1.5rem 2rem !important;
+  }
+
+  /* line 315, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    padding: 1.5rem 1rem !important;
+  }
+
+  /* line 318, ../sass/abstract/_breakpoints.scss */
+  .info-left-own {
+    margin-right: -1rem !important;
+  }
+
+  /* line 321, ../sass/abstract/_breakpoints.scss */
+  .info-left-refferals {
+    margin-right: -3rem !important;
+  }
+
+  /* line 324, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    padding: 0.8rem 2rem !important;
+  }
+
+  /* line 327, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-img {
+    width: 1.6rem !important;
+  }
+}
+@media all and (max-width: 625px) {
+  /* line 333, ../sass/abstract/_breakpoints.scss */
+  .header-dashboard {
+    font-size: 1.5rem !important;
+  }
+
+  /* line 336, ../sass/abstract/_breakpoints.scss */
+  .header-button img {
+    margin-top: 2px !important;
+    height: 2rem !important;
+    width: 2rem !important;
+  }
+
+  /* line 341, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper,
+  .refferal-bar-text-upper,
+  .social-sub-header-text-upper,
+  .social-tasks-header,
+  .social-howto-header-text-upper {
+    font-size: 1.3rem !important;
+  }
+
+  /* line 348, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-lower,
+  .refferal-bar-text-lower,
+  .social-sub-header-text-lower,
+  .social-howto-header-text-lower {
+    font-size: 1.1rem !important;
+  }
+
+  /* line 354, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 1rem !important;
+  }
+
+  /* line 357, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 2.2rem !important;
+  }
+
+  /* line 360, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 4.5rem !important;
+    width: 4.5rem !important;
+  }
+
+  /* line 365, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 6rem !important;
+    width: 6rem !important;
+  }
+}
+@media all and (max-width: 600px) {
+  /* line 372, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 37% !important;
+  }
+}
+@media all and (max-width: 580px) {
+  /* line 378, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 4rem !important;
+    width: 4rem !important;
+  }
+
+  /* line 383, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    height: 1.5rem !important;
+    width: 2.5rem !important;
+  }
+
+  /* line 387, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    font-size: 1.1rem !important;
+    padding: 0.9rem 2rem !important;
+  }
+
+  /* line 391, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-img {
+    width: 1.5rem !important;
+  }
+}
+@media all and (max-width: 560px) {
+  /* line 397, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-sub {
+    font-size: 1.1rem !important;
+  }
+
+  /* line 400, ../sass/abstract/_breakpoints.scss */
+  .info-refferals-text {
+    margin-left: 0.7rem !important;
+  }
+
+  /* line 403, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    width: 2.2rem !important;
+  }
+}
+@media all and (max-width: 550px) {
+  /* line 409, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    flex-basis: 55% !important;
+  }
+
+  /* line 412, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 40% !important;
+  }
+}
+@media all and (max-width: 548px) {
+  /* line 418, ../sass/abstract/_breakpoints.scss */
+  .header-dashboard {
+    font-size: 1.4rem !important;
+  }
+
+  /* line 421, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 5rem !important;
+    width: 5rem !important;
+  }
+
+  /* line 425, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper {
+    margin-bottom: 0.8rem !important;
+  }
+
+  /* line 428, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper,
+  .refferal-bar-text-upper,
+  .social-sub-header-text-upper,
+  .social-tasks-header,
+  .social-howto-header-text-upper {
+    font-size: 1.2rem !important;
+  }
+
+  /* line 436, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-lower,
+  .refferal-bar-text-lower,
+  .social-sub-header-text-lower,
+  .social-howto-header-text-lower,
+  .refferal-bar-url {
+    font-size: 1rem !important;
+  }
+
+  /* line 443, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 2rem !important;
+  }
+
+  /* line 446, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 0.8rem !important;
+  }
+
+  /* line 449, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 22% !important;
+  }
+
+  /* line 452, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    margin-right: 1.8rem !important;
+  }
+}
+@media all and (max-width: 510px) {
+  /* line 458, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 24% !important;
+  }
+}
+@media all and (max-width: 505px) {
+  /* line 464, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 3.5rem !important;
+    width: 3.5rem !important;
+  }
+
+  /* line 469, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    flex-basis: 53% !important;
+    padding: 0.9rem 1rem !important;
+  }
+}
+@media all and (max-width: 490px) {
+  /* line 476, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    margin-right: 2rem !important;
+  }
+
+  /* line 479, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-container {
+    flex-basis: 45% !important;
+  }
+}
+@media all and (max-width: 485px) {
+  /* line 485, ../sass/abstract/_breakpoints.scss */
+  .info-refferals-text {
+    margin-left: 0.5rem !important;
+  }
+}
+@media all and (max-width: 476px) {
+  /* line 491, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 70% !important;
+  }
+
+  /* line 494, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 28% !important;
+  }
+
+  /* line 497, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 26% !important;
+  }
+}
+@media all and (max-width: 445px) {
+  /* line 503, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 68% !important;
+  }
+
+  /* line 506, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 30% !important;
+  }
+
+  /* line 509, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar {
+    padding: 1rem 2rem !important;
+  }
+}
+@media all and (max-width: 414px) {
+  /* line 515, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 3rem !important;
+    width: 3rem !important;
+  }
+
+  /* line 520, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 1.6rem !important;
+  }
+
+  /* line 523, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 70% !important;
+  }
+
+  /* line 526, ../sass/abstract/_breakpoints.scss */
+  .info-left-refferals {
+    margin-right: -3.5rem !important;
+  }
+
+  /* line 529, ../sass/abstract/_breakpoints.scss */
+  .info-left img {
+    margin-left: -2.5rem !important;
+  }
+
+  /* line 532, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    width: 1.8rem !important;
+  }
+
+  /* line 535, ../sass/abstract/_breakpoints.scss */
+  .info-tokens-img {
+    margin-right: 5.5rem !important;
+    margin-left: -3.5rem !important;
+  }
+
+  /* line 539, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 28% !important;
+  }
+
+  /* line 542, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-upper,
+  .refferal-bar-text-upper,
+  .social-sub-header-text-upper,
+  .social-tasks-header,
+  .social-howto-header-text-upper {
+    font-size: 1.1rem !important;
+  }
+
+  /* line 549, ../sass/abstract/_breakpoints.scss */
+  .welcome-text-lower,
+  .refferal-bar-text-lower,
+  .social-sub-header-text-lower,
+  .social-howto-header-text-lower,
+  .refferal-bar-url {
+    font-size: 0.9rem !important;
+  }
+
+  /* line 556, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-img {
+    width: 2rem !important;
+  }
+
+  /* line 559, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-sub {
+    font-size: 1rem !important;
+  }
+
+  /* line 563, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    padding: 0.7rem 1rem !important;
+  }
+
+  /* line 566, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-img {
+    width: 1.3rem !important;
+  }
+
+  /* line 569, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    margin-right: 1.5rem !important;
+  }
+
+  /* line 572, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar {
+    padding: 0.8rem 2.4rem !important;
+  }
+
+  /* line 575, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-text {
+    padding-left: 1rem !important;
+  }
+
+  /* line 578, ../sass/abstract/_breakpoints.scss */
+  .social-sub-header-text {
+    margin-left: 1rem !important;
+  }
+
+  /* line 581, ../sass/abstract/_breakpoints.scss */
+  .social-tasks {
+    padding: 2rem 1rem !important;
+  }
+
+  /* line 584, ../sass/abstract/_breakpoints.scss */
+  .social-howto-sub iframe {
+    height: 15rem !important;
+  }
+
+  /* line 587, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 24% !important;
+  }
+
+  /* line 590, ../sass/abstract/_breakpoints.scss */
+  .social-tasks-points,
+  .social-reffering-points {
+    padding: 0.2rem 0.8rem !important;
+  }
+}
+@media all and (max-width: 375px) {
+  /* line 597, ../sass/abstract/_breakpoints.scss */
+  .info-text {
+    font-size: 1.4rem !important;
+  }
+
+  /* line 600, ../sass/abstract/_breakpoints.scss */
+  .info-left {
+    flex-basis: 72% !important;
+  }
+
+  /* line 603, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    flex-basis: 26% !important;
+  }
+
+  /* line 606, ../sass/abstract/_breakpoints.scss */
+  .info-card .info-tokens-img,
+  .info-card .info-refferals-img {
+    height: 2.5rem !important;
+    width: 2.5rem !important;
+  }
+
+  /* line 611, ../sass/abstract/_breakpoints.scss */
+  .info-left-refferals {
+    margin-right: -2.5rem !important;
+  }
+
+  /* line 614, ../sass/abstract/_breakpoints.scss */
+  .info-left-eq {
+    height: 1rem !important;
+    width: 1.6rem !important;
+  }
+
+  /* line 618, ../sass/abstract/_breakpoints.scss */
+  .info-left-plus {
+    height: 1.2rem !important;
+    width: 1.2rem !important;
+  }
+
+  /* line 622, ../sass/abstract/_breakpoints.scss */
+  .info-card {
+    padding: 1.5rem 1rem !important;
+  }
+
+  /* line 625, ../sass/abstract/_breakpoints.scss */
+  .info-refferals {
+    padding: 1.5rem 0.44rem !important;
+  }
+
+  /* line 628, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-url {
+    padding: 0.7rem 1rem !important;
+    margin-right: 1rem !important;
+    flex-basis: 58% !important;
+  }
+
+  /* line 633, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar {
+    padding: 0.8rem 2rem !important;
+  }
+
+  /* line 636, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar-img {
+    width: 1.2rem !important;
+    height: 1.5rem !important;
+  }
+
+  /* line 640, ../sass/abstract/_breakpoints.scss */
+  .social-tasks {
+    padding: 1rem 1rem !important;
+  }
+
+  /* line 643, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    margin-right: 1.6rem !important;
+  }
+}
+@media all and (max-width: 360px) {
+  /* line 649, ../sass/abstract/_breakpoints.scss */
+  .welcome img {
+    height: 4.5rem !important;
+    width: 4.5rem !important;
+  }
+
+  /* line 653, ../sass/abstract/_breakpoints.scss */
+  .refferal-bar {
+    padding: 0.8rem 1.5rem !important;
+  }
+
+  /* line 656, ../sass/abstract/_breakpoints.scss */
+  .social-points {
+    flex-basis: 27% !important;
+  }
+
+  /* line 659, ../sass/abstract/_breakpoints.scss */
+  .info-text-lower {
+    font-size: 0.7rem !important;
+  }
+}
+/* line 1, ../sass/base/_base.scss */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+/* line 9, ../sass/base/_base.scss */
+html {
+  font-size: 62.5%;
+}
+
+/* line 13, ../sass/base/_base.scss */
+body {
+  background-color: #fafafa;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* line 1, ../sass/base/_typography.scss */
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: #b6b6b6;
+}
+
+/* line 1, ../sass/components/_animations.scss */
+.header-button-btn {
+  cursor: pointer;
+}
+/* line 3, ../sass/components/_animations.scss */
+.header-button-btn:link, .header-button-btn:visited {
+  text-decoration: none;
+  transition: all .3s;
+}
+/* line 9, ../sass/components/_animations.scss */
+.header-button-btn:hover {
+  background-color: #138be7;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+/* line 15, ../sass/components/_animations.scss */
+.header-button-btn:active {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  transform: translateY(0);
+}
+
+/* line 21, ../sass/components/_animations.scss */
+.header-button-settings {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+/* line 24, ../sass/components/_animations.scss */
+.header-button-settings:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+/* line 30, ../sass/components/_animations.scss */
+.social-tasks-text {
+  cursor: pointer;
+}
+
+/* line 34, ../sass/components/_animations.scss */
+.social-tasks-verify {
+  cursor: pointer;
+  transition: all .2s;
+}
+/* line 37, ../sass/components/_animations.scss */
+.social-tasks-verify:hover {
+  transform: scale(1.2);
+}
+
+/* line 42, ../sass/components/_animations.scss */
+.social-tasks-points,
+.social-reffering-points {
+  animation-name: bounceIn;
+  animation-duration: 0.8s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) translate3d(0, 0, 0);
+  }
+  50% {
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+  80% {
+    opacity: 1;
+    transform: scale(0.89);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+}
+/* line 68, ../sass/components/_animations.scss */
+.welcome {
+  animation-name: easeIn;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+}
+
+/* line 74, ../sass/components/_animations.scss */
+.info-left {
+  animation-name: easeInInfo;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+}
+
+/* line 80, ../sass/components/_animations.scss */
+.info-refferals {
+  animation-name: easeInRight;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+}
+
+/* line 86, ../sass/components/_animations.scss */
+.refferal,
+.social {
+  animation-name: easeInUpwards;
+  animation-duration: 0.7s;
+  animation-timing-function: linear;
+}
+
+@keyframes easeIn {
+  0% {
+    opacity: 0;
+    transform: translateX(-10rem);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateX(-5rem);
+  }
+  75% {
+    opacity: 0.7;
+    transform: translateX(-2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0rem);
+  }
+}
+@keyframes easeInInfo {
+  0% {
+    opacity: 0;
+    transform: translateX(-10rem);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateX(-5rem);
+  }
+  75% {
+    opacity: 0.7;
+    transform: translateX(-2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0rem);
+  }
+}
+@keyframes easeInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(10rem);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateX(5rem);
+  }
+  75% {
+    opacity: 0.7;
+    transform: translateX(2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0rem);
+  }
+}
+@keyframes easeInUpwards {
+  0% {
+    opacity: 0;
+    transform: translateY(7rem);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateY(3rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0rem);
+  }
+}
+/* line 1, ../sass/layout/_header.scss */
+.header {
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* line 7, ../sass/layout/_header.scss */
+.header-user {
+  display: flex;
+  align-items: center;
+}
+/* line 10, ../sass/layout/_header.scss */
+.header-user img {
+  height: 3.8rem;
+  width: 3.8rem;
+}
+/* line 14, ../sass/layout/_header.scss */
+.header-user-text {
+  margin-left: 1rem;
+}
+/* line 16, ../sass/layout/_header.scss */
+.header-user-text-upper {
+  color: #000000;
+  font-weight: 500;
+  font-size: 1.6rem;
+}
+/* line 24, ../sass/layout/_header.scss */
+.header-dashboard {
+  text-align: center;
+  color: #000000;
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+/* line 30, ../sass/layout/_header.scss */
+.header-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* line 34, ../sass/layout/_header.scss */
+.header-button-btn {
+  text-decoration: none;
+  background-color: #138be7;
+  color: #ffffff;
+  padding: 0.7rem 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+/* line 43, ../sass/layout/_header.scss */
+.header-button img {
+  margin-top: 5px;
+  margin-right: 2rem;
+  height: 3rem;
+  width: 3rem;
+}
+
+/* line 1, ../sass/layout/_mainpage.scss */
+.welcome {
+  max-width: 114rem;
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+}
+/* line 8, ../sass/layout/_mainpage.scss */
+.welcome img {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 100px;
+}
+/* line 13, ../sass/layout/_mainpage.scss */
+.welcome-text {
+  margin-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+/* line 18, ../sass/layout/_mainpage.scss */
+.welcome-text-upper {
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #000000;
+  margin-bottom: 2rem;
+}
+/* line 23, ../sass/layout/_mainpage.scss */
+.welcome-text-upper-2 {
+  color: #138be7;
+}
+
+/* line 31, ../sass/layout/_mainpage.scss */
+.info {
+  max-width: 114rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  visibility: hidden;
+}
+/* line 36, ../sass/layout/_mainpage.scss */
+.info-card {
+  background-color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+  padding: 2rem 2rem;
+  display: flex;
+  align-items: center;
+}
+/* line 42, ../sass/layout/_mainpage.scss */
+.info-left {
+  flex-basis: 76%;
+  justify-content: space-around;
+}
+/* line 45, ../sass/layout/_mainpage.scss */
+.info-left-tokens {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -9rem !important;
+}
+/* line 50, ../sass/layout/_mainpage.scss */
+.info-left-tokens-upper {
+  color: #138be7;
+}
+/* line 54, ../sass/layout/_mainpage.scss */
+.info-left-own {
+  display: flex;
+  flex-direction: column;
+  margin-left: -3rem !important;
+}
+/* line 58, ../sass/layout/_mainpage.scss */
+.info-left-own-upper {
+  color: #e1801a;
+}
+/* line 62, ../sass/layout/_mainpage.scss */
+.info-left-refferals {
+  display: flex;
+  flex-direction: column;
+  margin-left: -3rem !important;
+}
+/* line 66, ../sass/layout/_mainpage.scss */
+.info-left-refferals-upper {
+  color: #e8325d;
+}
+/* line 70, ../sass/layout/_mainpage.scss */
+.info-left-eq {
+  height: 3.2rem;
+  width: 5.2rem;
+}
+/* line 74, ../sass/layout/_mainpage.scss */
+.info-left-plus {
+  height: 3.5rem;
+  width: 3.2rem;
+}
+/* line 78, ../sass/layout/_mainpage.scss */
+.info-left img {
+  margin-left: -5rem;
+}
+/* line 82, ../sass/layout/_mainpage.scss */
+.info-refferals {
+  flex-basis: 22%;
+}
+/* line 84, ../sass/layout/_mainpage.scss */
+.info-refferals-text {
+  margin-left: 2rem;
+}
+/* line 86, ../sass/layout/_mainpage.scss */
+.info-refferals-text-upper {
+  color: #33c240;
+}
+/* line 91, ../sass/layout/_mainpage.scss */
+.info-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 3.6rem;
+  font-weight: 300;
+}
+/* line 98, ../sass/layout/_mainpage.scss */
+.info-text-lower {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #000000;
+}
+
+/* line 106, ../sass/layout/_mainpage.scss */
+.refferal {
+  max-width: 114rem;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 2rem;
+  background-color: #138be7;
+  border-radius: 5px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+  visibility: hidden;
+}
+/* line 113, ../sass/layout/_mainpage.scss */
+.refferal-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 4rem;
+}
+/* line 119, ../sass/layout/_mainpage.scss */
+.refferal-bar-text {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+/* line 123, ../sass/layout/_mainpage.scss */
+.refferal-bar-text-upper {
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+/* line 128, ../sass/layout/_mainpage.scss */
+.refferal-bar-url {
+  background-color: #ffffff;
+  border-radius: 5px;
+  flex-basis: 60%;
+  margin-left: auto;
+  margin-right: 3rem;
+  padding: 1rem 2rem;
+  text-align: center;
+  color: #ababab;
+  font-size: 1.6rem;
+  font-weight: 500;
+  overflow: hidden;
+}
+/* line 141, ../sass/layout/_mainpage.scss */
+.refferal-bar-img {
+  cursor: pointer;
+}
+
+/* line 148, ../sass/layout/_mainpage.scss */
+.social {
+  max-width: 114rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 2rem;
+  visibility: hidden;
+}
+/* line 154, ../sass/layout/_mainpage.scss */
+.social-flex {
+  display: flex;
+  justify-content: space-between;
+}
+/* line 158, ../sass/layout/_mainpage.scss */
+.social-points {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 20%;
+  margin-right: 0.8rem;
+}
+/* line 164, ../sass/layout/_mainpage.scss */
+.social-sub {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 49%;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+}
+/* line 169, ../sass/layout/_mainpage.scss */
+.social-sub-header {
+  padding: 1rem 1rem;
+  border-bottom: 1px solid #f5f5f5;
+}
+/* line 172, ../sass/layout/_mainpage.scss */
+.social-sub-header-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+}
+/* line 176, ../sass/layout/_mainpage.scss */
+.social-sub-header-text-upper {
+  font-size: 1.6rem;
+  color: #000000;
+  font-weight: 500;
+}
+/* line 184, ../sass/layout/_mainpage.scss */
+.social-tasks {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-basis: 65%;
+  padding: 2rem;
+  padding-top: 1rem;
+  flex-basis: 100%;
+}
+/* line 192, ../sass/layout/_mainpage.scss */
+.social-tasks-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #000000;
+  margin-left: 1rem;
+}
+/* line 201, ../sass/layout/_mainpage.scss */
+.social-tasks-sub {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #f5f5f5;
+  padding: 0.5rem 0rem;
+}
+/* line 207, ../sass/layout/_mainpage.scss */
+.social-tasks-sub:nth-child(2) {
+  margin-top: 0.6rem;
+}
+/* line 211, ../sass/layout/_mainpage.scss */
+.social-tasks-text {
+  color: #000000;
+  text-decoration: underline;
+  padding-left: 1.5rem;
+}
+/* line 216, ../sass/layout/_mainpage.scss */
+.social-tasks-verify {
+  color: #138be7;
+}
+/* line 219, ../sass/layout/_mainpage.scss */
+.social-tasks-points {
+  background-color: #2ec531;
+  border-radius: 5px;
+  font-weight: 700;
+  color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+  padding: 0.2rem 0.9rem;
+}
+/* line 227, ../sass/layout/_mainpage.scss */
+.social-tasks-container {
+  padding-left: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-basis: 40%;
+}
+/* line 233, ../sass/layout/_mainpage.scss */
+.social-tasks-container-sub {
+  display: flex;
+  align-items: center;
+}
+/* line 238, ../sass/layout/_mainpage.scss */
+.social-tasks-img {
+  width: 2.8rem;
+}
+/* line 244, ../sass/layout/_mainpage.scss */
+.social-reffering-points {
+  background-color: #138be7;
+  border-radius: 5px;
+  font-weight: 700;
+  color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+  padding: 0.2rem 0.9rem;
+}
+/* line 255, ../sass/layout/_mainpage.scss */
+.social-howto {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 49%;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.08);
+}
+/* line 260, ../sass/layout/_mainpage.scss */
+.social-howto-header {
+  padding: 1rem;
+  border-bottom: 1px solid #f5f5f5;
+}
+/* line 263, ../sass/layout/_mainpage.scss */
+.social-howto-header-text {
+  margin-left: 2rem;
+}
+/* line 265, ../sass/layout/_mainpage.scss */
+.social-howto-header-text-upper {
+  font-size: 1.6rem;
+  color: #000000;
+  font-weight: 500;
+}
+/* line 272, ../sass/layout/_mainpage.scss */
+.social-howto-sub {
+  padding: 2rem;
+  text-align: center;
+}
+/* line 275, ../sass/layout/_mainpage.scss */
+.social-howto-sub iframe {
+  width: 100%;
+  height: 30rem;
+}

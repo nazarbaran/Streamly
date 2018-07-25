@@ -1,0 +1,662 @@
+@media all and (max-width: 1199px) {
+    .welcome,
+    .info,
+    .refferal,
+    .social{
+        margin: 2rem !important;
+    }
+}
+
+@media all and (max-width: 1280px) {
+    .welcome{
+        img{
+            height: 9rem !important;
+            width: 9rem !important;
+        }
+    }
+    
+    .info{
+        &-text{
+            font-size: 3.2rem !important;
+            &-lower{
+                font-size: 1.3rem !important;
+            }
+        }
+        &-card{
+            .info-tokens-img,
+            .info-refferals-img{
+                height: 7rem !important;
+                width: 7rem !important;
+            }
+        }
+        &-left{
+            &-eq{
+                height: 3.2rem !important;
+                width: 5.2rem !important;
+            }
+            &-plus{
+                height: 3.5rem !important;
+                width: 3.2rem !important;
+            }
+        }
+    }
+    .refferal-bar-url{
+        font-size: 1.4rem !important;
+    }
+}
+
+@media all and (min-width: 1099px) and (max-width: 1199px) {
+    .social-points{
+        flex-basis: 22% !important;
+    }
+}
+
+@media all and (min-width: 980px) and (max-width: 1098px) {
+    .social-points{
+        flex-basis: 24% !important;
+    }
+}
+
+@media all and (min-width: 977px) and (max-width: 1098px) {
+    .social-tasks-container{
+        flex-basis: 45% !important;
+    }
+}
+
+@media all and (min-width: 900px) and (max-width: 976px) {
+    .social-tasks-container{
+        flex-basis: 50% !important;
+    }
+}
+
+@media all and (min-width: 900px) and (max-width: 979px) {
+    .social-points{
+        flex-basis: 26% !important;
+    }
+}
+
+@media all and (max-width: 1010px) {
+    .info-refferals-text {
+        margin-left: 1rem !important;
+    }
+}
+
+@media all and (max-width: 980px) { 
+    .header{
+        &-user-text{
+            &-upper{
+                font-size: 1.4rem !important;
+            }
+            &-lower{
+                font-size: 1.2rem !important;
+            }
+        }
+        &-dashboard{
+            font-size: 1.6rem !important;
+        }
+        &-button{
+            img{
+                margin-top: 2px !important;
+                height: 2.5rem !important;
+                width: 2.5rem !important;
+            }
+            &-btn{
+                font-size: 1.2rem !important;
+            }
+        }
+    }
+    .welcome{
+        img{
+            height: 7.5rem !important;
+            width: 7.5rem !important;
+        }
+        &-text{
+            &-upper{
+                font-size: 1.4rem !important;
+                margin-bottom: 1.5rem !important;
+            }
+            &-lower{
+                font-size: 1.2rem !important;
+            }
+        }
+    }
+    .info{
+        &-text{
+            font-size: 2.8rem !important;
+            &-lower{
+                font-size: 1.2rem !important;
+            }
+        }
+        &-card{
+            .info-tokens-img,
+            .info-refferals-img{
+                height: 6rem !important;
+                width: 6rem !important;
+            }
+        }
+        &-left{
+            &-eq{
+                height: 2.2rem !important;
+                width: 4.2rem !important;
+            }
+            &-plus{
+                height: 2.5rem !important;
+                width: 2.2rem !important;
+            }
+        }
+    }
+    .refferal-bar-text-upper,
+    .social-sub-header-text-upper,
+    .social-howto-header-text-upper{
+        font-size: 1.4rem !important;
+    }
+    .refferal-bar-text-lower,
+    .social-sub-header-text-lower,
+    .social-howto-header-text-lower,
+    .social-tasks-sub{
+        font-size: 1.2rem !important;
+    }
+    .social-tasks-img{
+        width: 2.6rem !important;
+    }
+    
+}
+
+@media all and (max-width: 900px) {
+    .info-left{
+        flex-basis: 74% !important;
+    }
+    .info-refferals {
+        flex-basis: 24% !important;
+    }
+    .info-left-tokens{
+        margin-left: -7rem !important;
+    }
+    .info-tokens-img{
+        margin-right: 2rem !important;
+    } 
+    .social{
+        flex-direction: column !important;
+        align-items: stretch !important;
+        &-howto{
+            margin-top: 2rem !important;
+        }
+        &-tasks-header{
+            margin-right: 1rem !important;
+        }
+        &-points{
+            flex-basis: 14% !important;
+            margin-right: 2rem !important;
+        } 
+        &-tasks-container{
+            flex-basis: 30% !important;
+        }
+    }
+}
+
+@media all and (max-width: 825px) {
+    .info-left{
+        flex-basis: 72% !important;
+        padding-right: 0rem !important;
+        img{
+            margin-left: -3rem !important;
+        }
+        &-tokens{
+            margin-left: -5rem !important;
+        }
+        &-own{
+            margin-left: -1rem !important;
+        }
+        &-refferals{
+            margin-left: -1rem !important;
+        }
+    }
+    .info-refferals {
+        flex-basis: 26% !important;
+    }
+    .info-tokens-img {
+        margin-right: 5rem !important;
+    }
+    .refferal-bar{
+        padding: 1rem 3rem !important;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .info-refferals {
+        padding: 2rem 1rem !important;
+    }
+    .social-points{
+        flex-basis: 17% !important;
+    }
+    .refferal-bar-url {
+        font-size: 1.2rem !important;
+    }
+}
+
+@media all and (max-width: 699px) {
+    .header{
+        padding: 1.5rem 2rem !important;
+        &-user,
+        &-button-btn{
+            display: none !important;
+        }
+        &-dashboard{
+            margin: 0 auto;
+        }
+        &-button{
+            display: inline-block;
+            position: absolute;
+            right: 3%;
+        }
+        &-button-settings{
+            margin-right: 0rem !important;
+        }
+    }
+    .welcome{
+        padding-right: 1rem !important;
+        img{
+            height: 6.5rem !important;
+            width: 6.5rem !important;
+        }
+    }
+    .welcome-text{
+        margin-left: 1rem !important;
+    }
+    .info-text {
+        font-size: 2.5rem !important;
+    }
+    .info-card .info-tokens-img,
+    .info-card .info-refferals-img {
+        height: 5rem !important;
+        width: 5rem !important;
+    }
+    .info-text-lower {
+        font-size: 1.1rem !important;
+    }
+    .info-left-eq {
+        height: 1.8rem !important;
+        width: 3rem !important;
+    }
+    .info-left-plus {
+        height: 1.8rem !important;
+        width: 1.8rem !important;
+    }
+    .refferal-bar-img{
+        width: 1.7rem !important;
+    }
+    .social-howto-sub {
+        padding: 1rem 2rem !important;
+    }
+}
+
+@media all and (max-width: 667px) {
+    .social-points{
+        flex-basis: 20% !important;
+    }
+    .social-tasks-container {
+        flex-basis: 33% !important;
+    }
+}
+
+@media all and(max-width: 660px){
+    .welcome-text-upper {
+        margin-bottom: 1rem !important;
+    }
+}
+
+@media all and (max-width: 625px) {
+    .info-left-tokens {
+        margin-right: -1rem !important;
+    }
+    .info-card{
+        padding: 1.5rem 2rem !important;
+    }
+    .info-refferals {
+        padding: 1.5rem 1rem !important;
+    }
+    .info-left-own{
+        margin-right: -1rem !important;
+    }
+    .info-left-refferals{
+        margin-right: -3rem !important;
+    }
+    .refferal-bar-url{
+        padding: 0.8rem 2rem !important;
+    }
+    .refferal-bar-img {
+        width: 1.6rem !important;
+    }
+}
+
+@media all and (max-width: 625px) {
+    .header-dashboard {
+        font-size: 1.5rem !important;
+    }
+    .header-button img {
+        margin-top: 2px !important;
+        height: 2rem !important;
+        width: 2rem !important;
+    }
+    .welcome-text-upper,
+    .refferal-bar-text-upper,
+    .social-sub-header-text-upper,
+    .social-tasks-header,
+    .social-howto-header-text-upper{
+        font-size: 1.3rem !important;
+    }
+    .welcome-text-lower,
+    .refferal-bar-text-lower,
+    .social-sub-header-text-lower,
+    .social-howto-header-text-lower{
+        font-size: 1.1rem !important;
+    }
+    .info-text-lower {
+        font-size: 1rem !important;
+    }
+    .info-text {
+        font-size: 2.2rem !important;
+    }
+    .info-card .info-tokens-img,
+    .info-card .info-refferals-img {
+        height: 4.5rem !important;
+        width: 4.5rem !important;
+    }
+    .welcome img {
+        height: 6rem !important;
+        width: 6rem !important;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .social-tasks-container {
+        flex-basis: 37% !important;
+    }
+}
+
+@media all and (max-width: 580px) {
+    .info-card .info-tokens-img, 
+    .info-card .info-refferals-img {
+        height: 4rem !important;
+        width: 4rem !important;
+    }
+    .info-left-eq {
+        height: 1.5rem !important;
+        width: 2.5rem !important;
+    }
+    .refferal-bar-url {
+        font-size: 1.1rem !important;
+        padding: 0.9rem 2rem !important;
+    }
+    .refferal-bar-img {
+        width: 1.5rem !important;
+    }
+}
+
+@media all and (max-width: 560px) {
+    .social-tasks-sub {
+        font-size: 1.1rem !important;
+    }
+    .info-refferals-text {
+        margin-left: 0.7rem !important;
+    }
+    .info-left-eq {
+        width: 2.2rem !important;
+    }
+}
+
+@media all and (max-width: 550px) {
+    .refferal-bar-url{
+        flex-basis: 55% !important;
+    }
+    .social-tasks-container {
+        flex-basis: 40% !important;
+    }
+}
+
+@media all and (max-width: 548px) {
+    .header-dashboard {
+        font-size: 1.4rem !important;
+    }
+    .welcome img {
+        height: 5rem !important;
+        width: 5rem !important;
+    }
+    .welcome-text-upper {
+        margin-bottom: 0.8rem !important;
+    }
+    .welcome-text-upper, 
+    .refferal-bar-text-upper, 
+    .social-sub-header-text-upper, 
+    .social-tasks-header, 
+    .social-howto-header-text-upper {
+        font-size: 1.2rem !important;
+    }
+
+    .welcome-text-lower, 
+    .refferal-bar-text-lower, 
+    .social-sub-header-text-lower, 
+    .social-howto-header-text-lower,
+    .refferal-bar-url{
+        font-size: 1rem !important;
+    }
+    .info-text {
+        font-size: 2rem !important;
+    }
+    .info-text-lower {
+        font-size: 0.8rem !important;
+    }
+    .social-points {
+        flex-basis: 22% !important;
+    }
+    .social-points {
+        margin-right: 1.8rem !important;
+    }   
+}
+
+@media all and (max-width: 510px) {
+    .social-points {
+        flex-basis: 24% !important;
+    }
+}
+
+@media all and (max-width: 505px) {
+    .info-card .info-tokens-img, 
+    .info-card .info-refferals-img {
+        height: 3.5rem !important;
+        width: 3.5rem !important;
+    }
+    .refferal-bar-url{
+        flex-basis: 53% !important;
+        padding: 0.9rem 1rem !important;
+    }
+}
+
+@media all and (max-width: 490px) {
+    .refferal-bar-url{
+        margin-right: 2rem !important;
+    }
+    .social-tasks-container {
+        flex-basis: 45% !important;
+    }
+}
+
+@media all and (max-width: 485px) {
+    .info-refferals-text {
+        margin-left: 0.5rem !important;
+    }
+}
+
+@media all and (max-width: 476px) {
+    .info-left {
+        flex-basis: 70% !important;
+    }
+    .info-refferals {
+        flex-basis: 28% !important;
+    }
+    .social-points {
+        flex-basis: 26% !important;
+    }
+}
+
+@media all and (max-width: 445px) {
+    .info-left {
+        flex-basis: 68% !important;
+    }
+    .info-refferals {
+        flex-basis: 30% !important;
+    }
+    .refferal-bar {
+        padding: 1rem 2rem !important;
+    }
+}
+
+@media all and (max-width: 414px) {
+    .info-card .info-tokens-img, 
+    .info-card .info-refferals-img {
+        height: 3rem !important;
+        width: 3rem !important;
+    }
+    .info-text {
+        font-size: 1.6rem !important;
+    }
+    .info-left {
+        flex-basis: 70% !important;
+    }
+    .info-left-refferals {
+        margin-right: -3.5rem !important;
+    }
+    .info-left img {
+        margin-left: -2.5rem !important;
+    }
+    .info-left-eq{
+        width: 1.8rem !important;
+    }  
+    .info-tokens-img{
+        margin-right: 5.5rem !important;
+        margin-left: -3.5rem !important;
+    }   
+    .info-refferals {
+        flex-basis: 28% !important;
+    }
+    .welcome-text-upper, 
+    .refferal-bar-text-upper, 
+    .social-sub-header-text-upper, 
+    .social-tasks-header, 
+    .social-howto-header-text-upper {
+        font-size: 1.1rem !important;
+    }
+    .welcome-text-lower, 
+    .refferal-bar-text-lower, 
+    .social-sub-header-text-lower, 
+    .social-howto-header-text-lower, 
+    .refferal-bar-url {
+        font-size: 0.9rem !important;
+    }
+    .social-tasks-img {
+        width: 2rem !important;
+    }
+    .social-tasks-sub {
+        font-size: 1rem !important;
+    }
+   
+    .refferal-bar-url {
+        padding: 0.7rem 1rem !important;
+    }
+    .refferal-bar-img {
+        width: 1.3rem !important;
+    }
+    .social-points {
+        margin-right: 1.5rem !important;
+    }
+    .refferal-bar {
+        padding: 0.8rem 2.4rem !important;
+    }
+    .social-tasks-text {
+        padding-left: 1rem !important;
+    }
+    .social-sub-header-text {
+        margin-left: 1rem !important;
+    }
+    .social-tasks{
+        padding: 2rem 1rem !important; 
+    }
+    .social-howto-sub iframe {
+        height: 15rem !important;
+    }
+    .social-points {
+        flex-basis: 24% !important;
+    }
+    .social-tasks-points,
+    .social-reffering-points{
+        padding: 0.2rem 0.8rem !important;
+    }
+}
+
+@media all and (max-width: 375px) {
+    .info-text {
+        font-size: 1.4rem !important;
+    }
+    .info-left {
+        flex-basis: 72% !important;
+    }
+    .info-refferals {
+        flex-basis: 26% !important;
+    }
+    .info-card .info-tokens-img, 
+    .info-card .info-refferals-img {
+        height: 2.5rem !important;
+        width: 2.5rem !important;
+    }
+    .info-left-refferals {
+        margin-right: -2.5rem !important;
+    }
+    .info-left-eq {
+        height: 1rem !important;
+        width: 1.6rem !important;
+    }
+    .info-left-plus {
+        height: 1.2rem !important;
+        width: 1.2rem !important;
+    }
+    .info-card {
+        padding: 1.5rem 1rem !important;
+    }
+    .info-refferals{
+        padding: 1.5rem 0.44rem !important;
+    }
+    .refferal-bar-url {
+        padding: 0.7rem 1rem !important;
+        margin-right: 1rem !important;
+        flex-basis: 58% !important;
+    }
+    .refferal-bar {
+        padding: 0.8rem 2rem !important;
+    }
+    .refferal-bar-img{
+        width: 1.2rem !important;
+        height: 1.5rem !important;
+    }
+    .social-tasks {
+        padding: 1rem 1rem !important;
+    }
+    .social-points {
+        margin-right: 1.6rem !important;
+    }
+}
+
+@media all and (max-width: 360px) {
+    .welcome img {
+        height: 4.5rem !important;
+        width: 4.5rem !important;
+    }
+    .refferal-bar {
+        padding: 0.8rem 1.5rem !important;
+    }
+    .social-points {
+        flex-basis: 27% !important;
+    }
+    .info-text-lower {
+        font-size: 0.7rem !important;
+    }    
+}
